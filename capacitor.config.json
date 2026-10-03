@@ -1,0 +1,8 @@
+{
+  "appId": "com.harvest.multiwallet",
+  "appName": "MultiWallet",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
